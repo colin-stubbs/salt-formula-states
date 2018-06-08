@@ -1,0 +1,5 @@
+states:
+  - state1
+  - state2
+  - state3.remove
+  - state4.blah
